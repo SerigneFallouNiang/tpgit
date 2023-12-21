@@ -1,0 +1,13 @@
+body{
+    background-color: aquamarine;
+    font-size: 19px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 15px;
+}
+h1{
+    color: red;
+    text-align: center;
+    text-decoration: double;
+    font-family: initial;
+    border: 1px solid black ;
+}
