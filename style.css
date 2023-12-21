@@ -7,4 +7,7 @@ body{
 h1{
     color: red;
     text-align: center;
+    text-decoration: double;
+    font-family: initial;
+    border: 1px solid black ;
 }
